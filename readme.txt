@@ -3,5 +3,4 @@ Git is free software.002
 FUTUNN2022.06.07
 Switch demo
 work two days
-yes
 Create a new branch is quick
