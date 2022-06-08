@@ -3,6 +3,6 @@ Git is free software.002
 FUTUNN2022.06.07
 Switch demo
 work two days
-Create a new branch is quick
-Fast forward third ss  
-bug decond ss 
+Create a new branch is quick 
+Fast forward third 
+bug decond
